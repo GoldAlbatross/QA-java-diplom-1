@@ -5,7 +5,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import praktikum.Bun;
 import praktikum.Burger;
 import org.mockito.Mock;
-import static org.junit.Assert.*;;
+import static org.junit.Assert.*;
 import praktikum.Ingredient;
 import praktikum.IngredientType;
 
